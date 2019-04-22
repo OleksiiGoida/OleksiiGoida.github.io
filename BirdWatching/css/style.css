@@ -1,0 +1,54 @@
+div{
+    border: 1px #444;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: limegreen;
+    border-bottom: 10px grey;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #4CAF50;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: grey; 
+}
+.menu div{
+    background-color: limegreen;
+    font-size: 20px;
+}
+
+.he-1{
+    width: 250%;
+    font-family: sans-serif;
+}
+
+.he-2{
+    width: 25%;
+}
+.block-1{
+    width: 65%;
+     background-color: limegreen;
+}
+.block-2{
+     width: 30%;
+      background-color: limegreen;  
+}
+.he-2 img{
+    width: 20%:
+}
+.block-2-2 img{
+   
+    width: 95%;
+}
+.footer{
+    background-color: #4CAF50;
+}

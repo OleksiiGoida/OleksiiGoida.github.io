@@ -1,0 +1,40 @@
+div{
+    border: 1px #444;
+    padding: 10px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: khaki;
+
+}
+.block-1{
+    width: 80%;
+ 
+     
+
+    h3{
+        color: darkviolet;
+    }
+}
+
+.block-2{
+     width: 1%;
+    float: right;
+   border: 5px #444;
+
+    color: chartreuse;
+}
+
+.img{
+    float: right;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+.main3{
+    font-weight: 400px;
+}
+
